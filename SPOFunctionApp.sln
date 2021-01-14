@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SPOFunctionApp", "SPOFunctionApp\SPOFunctionApp.csproj", "{8A63BBBE-2000-445E-B172-A866C82C9FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A63BBBE-2000-445E-B172-A866C82C9FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A63BBBE-2000-445E-B172-A866C82C9FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A63BBBE-2000-445E-B172-A866C82C9FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A63BBBE-2000-445E-B172-A866C82C9FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF83E96-8387-4836-8409-8CDF3167224B}
+	EndGlobalSection
+EndGlobal
