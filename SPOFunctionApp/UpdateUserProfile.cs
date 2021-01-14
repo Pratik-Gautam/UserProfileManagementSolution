@@ -26,8 +26,8 @@ namespace SPOFunctionApp
 
             string tenantAdminUrl = "https://m365x131504-admin.sharepoint.com";
             // User name and pwd to login to the tenant
-            string userName = "admin@m365x131504.onmicrosoft.com";
-            string pwd = "SPF99BO4kF";
+            string userName = "";
+            string pwd = "";
             
             string fileUrl = "https://m365x131504.sharepoint.com/sites/PowerApps/Shared%20Documents/" + fileName;
             ClientResult<Guid> workItemId;
